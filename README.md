@@ -1,1 +1,1 @@
-# No-More-C-a-terimal-game
+# No-More-C-a-terminal-game
